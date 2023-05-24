@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel Lobachev
 ===============================
 
-I am C# + WPF developer and interested in Flutter.
+I am Flutter developer.
 ------------------------------------------------
 
 I've learning to code for 3 years. I often participate in many programming and design competitions! Also manage a creative team of programmers that I created
@@ -9,7 +9,7 @@ I've learning to code for 3 years. I often participate in many programming and d
 * 🌍  I'm based in Yekaterinburg
 * 🖥️  See my portfolio at [My portfolio](http://shoshideveloper.github.io/portfolio/)
 * ✉️  You can contact me at [shoshiid@mail.ru](mailto:shoshiid@mail.ru)
-* 🧠  I'm learning C# + WPF, Flutter
+* 🧠  I'm learning Flutter
 
 ### Skills
 
